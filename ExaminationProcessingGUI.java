@@ -95,7 +95,7 @@ public class ExaminationProcessingGUI {
     }
 
     // Method to add students
-    public static void addStudents() {
+     public static void addStudents() {
         JTextField nameField = new JTextField();
         JTextField idField = new JTextField();
         JPanel panel = new JPanel(new GridLayout(2, 2));
