@@ -47,8 +47,8 @@ This project is a **Java-based application** designed to process examination res
 ## Collaboration
 This project involves **three collaborators**. Below are their GitHub usernames:
 - **Collaborator 1**: [Emmanuel Keter](https://github.com/KIPEK-ui)
-- **Collaborator 2**: [Crystal Muthui](https://github.com/Iancecil)
-- **Collaborator 3**: [Ian Cecil](https://github.com/Crystalmuthui)
+- **Collaborator 2**: [Crystal Muthui](https://github.com/Crystalmuthui)
+- **Collaborator 3**: [Ian Cecil](https://github.com/Iancecil)
 
 ### Contribution Guidelines
 - Create a new branch for each feature/fix:
