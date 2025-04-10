@@ -170,15 +170,7 @@ public class ExaminationProcessingGUI {
         else return "F";
     }
 
-    // Method to determine recommendation
-    public static String determineRecommendation(String grade) {
-        return switch (grade) {
-            case "A" -> "Excellent";
-            case "B" -> "Good";
-            case "C" -> "Fair";
-            case "D" -> "Poor";
-            default -> "Very Poor";
-        };
+   
     }
 
     // Method to show report cards in a dropdown
