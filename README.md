@@ -64,13 +64,6 @@ This project involves **three collaborators**. Below are their GitHub usernames:
   - Follow Java naming conventions.
   - Write clear and concise comments.
   - Avoid hardcoding values where feasible.
-
-### Submission
-Ensure the repository is public and includes the following:
-1. Source code.
-2. README.md file (this file).
-3. Names of the collaborators.
-
 ## Strathmore University Grading System
 | Average Score Range | Grade | Recommendation       |
 |---------------------|-------|----------------------|
